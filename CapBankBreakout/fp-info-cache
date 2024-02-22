@@ -1,11 +1,18 @@
-22090444385778393
+22097282454620819
 ALF70C103EH400
-7461097
+CAP_SIDE_1
 7461097-1
 Connector
 0
-16
-16
+0
+0
+ALF70C103EH400
+CAP_SIDE_2
+
+
+0
+0
+0
 ALF70C103EH400
 HV-warning
 
@@ -20,6 +27,13 @@ ALF70C102EH400
 0
 4
 4
+ALF70C103EH400
+via
+
+
+0
+1
+1
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -59661,12 +59675,19 @@ solder jumper open
 5
 3
 KineticAntenna
-7461097
+CAP_SIDE_1
 7461097-1
 Connector
 0
-16
-16
+0
+0
+KineticAntenna
+CAP_SIDE_2
+
+
+0
+0
+0
 KineticAntenna
 HV-warning
 
@@ -59681,6 +59702,13 @@ ALF70C102EH400
 0
 4
 4
+KineticAntenna
+via
+
+
+0
+1
+1
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
